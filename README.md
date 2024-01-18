@@ -16,7 +16,7 @@ Mac - Install my repo using from the zip file
 
 Linux and Mac by termninal
 ```
-git clone https://github.com/Umar-Ahamed/Auto-Typer.git
+git clone https://github.com/Umar-Ahamed/ip-grabber.git
 ```
 
 ## Usage
