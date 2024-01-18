@@ -1,7 +1,7 @@
 
 # Ip grabber
 
-This Python script combines text content, retrieves the local IP address, and outputs the result to the console and clipboard.
+This Python script combines text content, retrieves the local IP address, and outputs the result to the console and clipboard. (For more info check the About section on this repo)
 
 ## Prerequiste
 Must have python https://www.python.org/downloads/
