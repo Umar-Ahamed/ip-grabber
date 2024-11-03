@@ -65,7 +65,7 @@ I know the basics of bash, linux commands.
 
 ## Support
 
-For support, email umarahamed54@gmail.com
+For support, email umardev89@gmail.com
 
 
 
